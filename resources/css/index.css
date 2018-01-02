@@ -26,3 +26,12 @@ p{
   color: gray;
   font-size: 21px;
 }
+
+.tent_img{
+  padding-bottom: 22px;
+}
+
+.copy{
+  text-align: right;
+  color: gray;
+}
